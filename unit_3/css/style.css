@@ -1,3 +1,7 @@
+h1{
+	@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline');
+
+}
 body{
   text-align: center;
   background-color: rgb(144,67,232);
@@ -6,3 +10,4 @@ body{
   font-family: Palatino, georgia, serif;
   font-weight: 400;
 }
+

@@ -6,12 +6,12 @@ h1{
 	font-weight: 54;
 }
 
-body{
+p{
   text-align: center;
   background-color: rgb(144,67,232);
   background-size: cover;
   color: #fff;
   font-family: Palatino, georgia, serif;
-  font-weight: 400;
+  font-weight: 200;
 }
 

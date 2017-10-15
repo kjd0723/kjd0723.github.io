@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Special+Elite');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
 
 h1{
 	text-align: center;
-	font-family:'Fascinate Inline', cursive;
+	font-family:'Comfortaa', cursive;
 	font-weight: 54;
 }
 
@@ -11,7 +12,7 @@ p{
   background-color: rgb(144,67,232);
   background-size: cover;
   color: #fff;
-  font-family: Palatino, georgia, serif;
+  font-family: 'Special Elite', cursive;
   font-weight: 200;
 }
 

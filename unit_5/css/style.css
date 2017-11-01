@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Crimson+Text');
+
+body{
+  text-align: center;
+  background-size: cover;
+  color: 000;
+  font-family: 'Crimson Text', serif;
+  font-weight: 200;
+}
+
+h1{
+	font-family:'Comfortaa', cursive;
+	font-weight: 54;
+}
 header {
     background-color: [#FFED74];
     border: 1px black solid;

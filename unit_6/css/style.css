@@ -29,6 +29,8 @@ div / section {
     background-image: url(images/mom-863055_1920.jpg);
     border: 1px black solid;
     padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 #three_column {
     border: 1px black solid;

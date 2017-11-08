@@ -44,11 +44,11 @@ div / section {
 }
 
 #center{
-    background-color: lightblue;
+    background-color: blue;
     border: 1px black solid;
     padding: 20px;
     display: inline-block;
-    width: 33%;
+    width: 30%;
 }
 #right {
     background-color: pink;

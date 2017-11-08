@@ -47,7 +47,7 @@ div / section {
     background-color: blue;
     border: 1px black solid;
     padding: 20px;
-    float: center;
+    display: inline-block;
     width: 30%;
 }
 #right {

@@ -32,6 +32,7 @@ div / section {
 }
 #three_column{
     background-image: url(pexels-photo-532389.jpeg);
+    height:100%;
     border: 1px black solid;
     padding: 20px;
 }

@@ -18,6 +18,9 @@ aside {
     padding: 20px;
 }
 
+img{
+    diplay: inline-block;
+}
 article {
     border: 1px black solid;
     padding: 20px;

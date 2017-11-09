@@ -2,6 +2,7 @@ header {
     background-color: #FFF0F5;
     border: 1px black solid;
     padding: 20px;
+    text-align:center;
 }
 body{
     background-size:cover;
@@ -43,16 +44,18 @@ div / section {
 }
 
 #left {
-    background-color: violet;
+    background-color: lightgray;
     opacity:0.5;
     border: 1px black solid;
     padding: 20px;
     float: left;
     width: 40%;
+    text-transform: uppercase;
 }
 
 #right {
-    background-color: pink;
+    background-color: lightgray;
+    opacity: 0.5;
     border: 1px black solid;
     padding: 20px;
     float: right;   

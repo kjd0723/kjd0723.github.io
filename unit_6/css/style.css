@@ -34,7 +34,7 @@ div / section {
     border: 1px black solid;
     padding: 20px;
 }
-#three_column {
+#two_column {
     border: 1px black solid;
     padding: 20px;
     background-image: url('images/mom-863055_1920.jpg');
@@ -45,23 +45,15 @@ div / section {
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 30%;
+    width: 40%;
 }
 
-#center{
-    background-color: blue;
-    border: 1px black solid;
-    padding: 20px;
-    margin-left: 5px;
-    display: inline-block;
-    width: 30%;
-}
 #right {
     background-color: pink;
     border: 1px black solid;
     padding: 20px;
     float: right;   
-    width: 30%;
+    width: 40%;
 }
 
 .clearfix:after {

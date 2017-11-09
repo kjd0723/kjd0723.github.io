@@ -7,10 +7,14 @@ nav {
     background-color: #E8C66A;
     border: 1px black solid;
     padding: 20px;
+    font-size: 1.8em
+    float: right;
 }
 nav a{
     text-decoration: none;
     color: #000000;
+    margin:1.6em;
+    display: inline-block;
 }
 aside {
     background-color: #FFC675;
@@ -18,9 +22,6 @@ aside {
     padding: 20px;
 }
 
-img{
-    diplay: inline-block;
-}
 article {
     border: 1px black solid;
     padding: 20px;

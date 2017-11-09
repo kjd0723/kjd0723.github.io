@@ -36,7 +36,8 @@ div / section {
 }
 #three_column {
     border: 1px black solid;
-    padding: 40px;
+    padding: 20px;
+    background: url(images\mom-863055_1920.jpg);
 }
 
 #left {

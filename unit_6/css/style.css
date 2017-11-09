@@ -3,6 +3,9 @@ header {
     border: 1px black solid;
     padding: 20px;
 }
+body{
+    background-size:cover;
+}
 nav {
     padding: 20px;
     font-size: 1.8em;

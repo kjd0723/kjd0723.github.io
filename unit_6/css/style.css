@@ -11,7 +11,7 @@ nav {
 nav a{
     text-decoration: none;
     color: #000000;
-    margin:1.6em;
+    margin:1.8em;
     display: inline-block;
 }
 aside {
@@ -36,7 +36,8 @@ div / section {
 }
 #three_column {
     border: 1px black solid;
-    padding: 400px;
+    padding: 200px;
+    background-image: url(images/mom-863055_1920.jpg)
 }
 
 #left {

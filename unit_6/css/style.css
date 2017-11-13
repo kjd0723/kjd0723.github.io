@@ -6,6 +6,9 @@ header {
     color: rgb(138,43,226)
     text-transform: uppercase;
 }
+h1{
+    color: rgb(138,43,226);
+}
 body{
     background-size:cover;
     color:#333;

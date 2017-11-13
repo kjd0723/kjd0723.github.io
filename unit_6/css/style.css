@@ -1,11 +1,10 @@
 * {box-sizing:border-box;margin: 0;padding: 0;}
 header {
+    background-color: #FFF0F5;
+    border: 1px black solid;
     text-align:center;
-    color: rgb(245,245,245);
+    color: rgb(0,0,0);
     text-transform: uppercase;
-    background-color: rgba(211, 211, 211, 0.5);
-    border: 1px solid;
-    padding: 20px;
 }
 body{
     background-size:cover;
